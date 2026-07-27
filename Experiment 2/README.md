@@ -28,6 +28,3 @@ scikit-learn `digits` dataset (1,797 samples, 10 classes).
 ReLU + Adam gave the best combination of convergence speed and final
 validation accuracy in this experiment.
 
-## Files
-- `Expt2_24BAD002.ipynb` - full experiment notebook
-- `best_model_24BAD002.keras` - saved trained model (ReLU + Adam)
